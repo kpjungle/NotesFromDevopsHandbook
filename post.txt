@@ -1,3 +1,6 @@
 Notes From The Devops Handbook:
 -------------------------------
 
+- Value stream is defined as the entire project workflow, from development until production system. This includes all workcenters involved.
+- The objective is to optimize efficiency and make work doable and enjoyable and cut down on technical "debt".
+- Technical "debt" is defined as all the things we have backlogged but never got around to actually do because of the workflow in place.
