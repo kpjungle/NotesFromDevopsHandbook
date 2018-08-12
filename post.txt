@@ -7,3 +7,6 @@ Notes From The Devops Handbook:
 - Everyone in the value stream is responsible for raising an alert when something is not right, just like the Toyota system.
 - Organizational learning is key.
 - Feedback loops needs to be as fast as possible.
+- Security needs to be involved from the get go.
+- Ops should be involved in Development meetings as an assigned liason.
+- Reduction in batch sizes will inevitable result in less risk when deploying.
