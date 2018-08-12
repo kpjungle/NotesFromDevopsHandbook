@@ -10,3 +10,5 @@ Notes From The Devops Handbook:
 - Security needs to be involved from the get go.
 - Ops should be involved in Development meetings as an assigned liason.
 - Reduction in batch sizes will inevitable result in less risk when deploying.
+- Automated testing processes should be utilized to decrease lead times.
+- Production telemetry is a must.
