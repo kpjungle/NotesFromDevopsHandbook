@@ -5,3 +5,5 @@ Notes From The Devops Handbook:
 - The objective is to optimize efficiency and make work doable and enjoyable and cut down on technical "debt".
 - Technical "debt" is defined as all the things we have backlogged but never got around to actually do because of the workflow in place.
 - Everyone in the value stream is responsible for raising an alert when something is not right, just like the Toyota system.
+- Organizational learning is key.
+- Feedback loops needs to be as fast as possible.
